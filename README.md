@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ceco51, a.k.a. Francesco Renzini
+- 👀 I’m interested in networks, ABM, ABM on networks, ABM of network formation, experimental game theory
+- 🌱 I’m currently a PhD student at the University of Milan
