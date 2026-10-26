@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ceco51, a.k.a. Francesco Renzini
-- 👀 I’m interested in agent-based models (ABMs), networks, evolutionary game theory, Bayesian variational inference, and conjoint experiments.
+- 👀 I’m interested in agent-based models (ABMs), networks, evolutionary game theory, Bayesian inference, and conjoint experiments.
 - 🌱 I’m currently a Post Doctoral Research Fellow at the University of Milan, Behave Lab
